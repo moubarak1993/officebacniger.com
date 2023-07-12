@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Préinscription au Bac 2022 - OBEECS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qBEi5LmaHYHvlFD3jOv_eF628WXgediMjVy666l1pqnQtotLuGYFvH08Zsal3dtBSdWmcKbwi7_F-zwEPI-94Q" />
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon-82b0fe1d501dc377e6692ce3c628320ce07c34cfabddee8afab6558842b26072.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32-4371573572baec44789835a5c8f3c6764e0b0dbe2e64c3745dd9886f7670c952.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16-e7ca386ba61837dfc50b781f183351d2f8fbc28ee536c57b9bb0e39168f9fbfd.png">
+<link rel="manifest" href="/assets/favicon/site-5791fe87b851755c5f6fff43e625a7944fc20cb8d543b7a2f3b1075451f2af28.webmanifest">
+<link rel="shortcut icon" href="/assets/favicon/favicon-8c8ed7b3503c549c3cc59598425dd307746eb36a62e2ccae800255f55b66d19f.ico">
+<meta name="apple-mobile-web-app-title" content="Inscription au Bac 2022 - OBEECS">
+<meta name="application-name" content="Inscription au Bac 2022 - OBEECS">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-35ea36babce8dae2c1aced0fc859c5cd5336ef0e6bc1ff9a8719d653b7798e8f.xml">
+<meta name="theme-color" content="#ffffff">
+    <script src="https://kit.fontawesome.com/e9fcfe2d4e.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.tailwindcss.com/3.1.8"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+    <script src="/packs/js/application-713ee5d6401193b0c27d.js" data-turbolinks-track="reload"></script>
+    <style>
+      body {
+        font-family: 'Open Sans', sans-serif;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- <div class="header-notification">
+      <p class="mb-0 blink-text">Les résultats du Première groupe ne sont pas encore disponible.</p>
+    </div> -->
+    <div data-controller="navbar" class="fadeIn animated">
+      
+<div class="columns error-page mt-5">
+  <div class="column is-6 is-offset-3">
+    <div class="card p-5">
+      <div class="has-text-centered mb-3">
+        <img alt="Logo" src="/packs/media/images/armoiries-7eec2a7a804328db59eb70cea27237fd.png" />
+      </div>
+          <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+            <tr>
+              <td>SESSION BAC NIGER</td>
+              <td>2022</td>
+            </tr>
+            <tr>
+              <td>SERIE</td>
+              <td>A4  Philosophie - Lettres</td>
+            </tr>
+            <tr>
+              <td>NOM</td>
+              <td>Gamby</td>
+            </tr>
+            <tr>
+              <td>PRENOM</td>
+              <td>Abdoulaye</td>
+            </tr>
+            <tr>
+              <td>SEXE</td>
+              <td>Masculin</td>
+            </tr>
+            <tr>
+              <td>NUMERO DE TABLE</td>
+              <td>007-A4-203</td>
+            </tr>
+            <tr>
+              <td>DECISION DU JURY</td>
+              <td>
+                  <h1>ADMIS(E)</h1>
+                  <p>Mention: <strong>Tres bien</strong> au Deuxième Groupe</p>
+              </td>
+            </tr>
+          </table>
+    </div>
+  </div>
+</div>
+
+    </div>
+    
+      <!-- Hotjar Tracking Code for https://www.officebacniger.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2034886,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180278329-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180278329-1');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '400758157773803');
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1"
+src="https://www.facebook.com/tr?id=400758157773803&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+  </body>
+</html>
